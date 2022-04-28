@@ -1,0 +1,1 @@
+start "C:\Users\Administrator\AppData\Local\Programs\Python\Python35-32\python.exe" "C:\Users\Administrator\AppData\Local\Programs\Python\Python35-32\test\Natural language\news\news_India\Analysis\main_news_india_analysis.py"
